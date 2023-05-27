@@ -1,0 +1,67 @@
+.wrap{
+    margin:30px;
+    padding:50px;
+    border:2px solid #595E61 ;
+  border-radius:10px;
+   display:grid;
+  Place-items:;
+  font-family:roboto,helvetica;
+    font-size:10px;}
+  p{ font-family:roboto,helvetica;
+    font-size:10px;}
+  .wrap2,.wrap3,.wrap5{
+    display:flex; padding:150px
+    place-items:center;
+    justify-content:space-between;}
+  #bigwrap{background-image:url('https://us-ms.gr-cdn.com/getresponse-MAo8s/photos/f3200d74-6b35-4c4c-9f6f-d4075e6920c3.jpg');
+  padding:500px;
+  place-items:center;}
+  #input{
+    background-color:white;
+    padding:50px;
+   text-align:center;
+    color:dodgerblue;
+  font-size:17px;}
+  #input:hover{
+    background-color:dodgerblue;
+    padding:50px;
+   text-align:center;
+    color:white;
+  font-size:17px;}
+  semi-footer{
+    color:white;}
+  .wrap8,.wrap4,.wrap6{display:grid;
+    place-items:center;
+    padding:10px;
+    font-family:roboto,helvetica;
+    font-size:25px;}
+  .wrap5{ padding:10px;}
+  .wrap6{margin-left:50px;}
+  #a,#d{
+    display:flex;}
+  #a{margin-left:-25px
+    
+  }
+  
+  h,h2{text-align:center;
+    font-family:arial;}
+  #btn,#semi-footer{padding:20px;
+      background-color:#7AB55C;
+    text-align:center;color:white;
+    font-family:helevitica  ;
+    font-size:15px;
+  outline:2px solid white;
+  border:2px solid white;
+  border-radius:10px;}
+  #btn:hover{padding:20px;
+      background-color:white;
+    text-align:center;color:#7AB55C;
+    font-family:helevitica  ;
+    font-size:15px;}
+  #img{  border-radius:100%;
+  }
+  h2,h4{color:#595E61;}
+  #footer{justify-content:space-between;
+    display:flex;
+  padding:20px;}
+  
