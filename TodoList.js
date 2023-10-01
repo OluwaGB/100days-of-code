@@ -5,7 +5,7 @@ newList = todo.pop();
 console.log(todo);
 
 btn = document.getElementById("btn");
-btn2 = document.getElementById("btn2");
+btn2 = document.getElementById("btn2")
 newTask = document.getElementById("list");
 
 display = document.getElementById("screen");
